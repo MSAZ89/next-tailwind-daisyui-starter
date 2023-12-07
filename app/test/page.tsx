@@ -1,9 +1,9 @@
 import MenuBar from "@/components/menubar";
 
-export default function Home() {
+export default function Test() {
   return (
-    <main>
+    <>
       <MenuBar />
-    </main>
+    </>
   );
 }
